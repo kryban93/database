@@ -17,6 +17,7 @@
 | [Artem Zekov](https://medium.com/@stalonadsl948)                                                  | Artem Zekov medium Page                                |
 | [Medium](https://medium.com/polish/ponad-300-%C5%9Bwietnych-rzeczy-za-darmo-b338caaf32e4)         | 300 useful things for web dev PL                       |
 | [Cody Lindley](http://codylindley.com/)                                                           | Free Front-end books,articles, videos                  |
+| [CP Algorithms](https://cp-algorithms.com/)                                                       | Algorithms and Data Structures                         |
 
 ## Games
 
@@ -29,6 +30,7 @@
 | [Untruster](https://alexnisnevich.github.io/untrusted/) | Learn Javascript with text game (free)                                        |
 | [Cyber dojo](https://www.cyber-dojo.org/creator/home)   | Interactive Javascript course with challenges (free)                          |
 | [Code Wars](https://www.codewars.com)                   | Free coding challenges                                                        |
+| [Over the wire](https://overthewire.org/wargames/)      | OverTheWire wargames helps learn and practice security concepts               |
 
 ## Courses
 
@@ -39,10 +41,13 @@
 | [FreeCodeCamp](https://www.freecodecamp.org/)                          | Big amount of interactive coding tutorials (free) |
 | [Egghead](https://egghead.io/)                                         | Web dev Video courses (?)                         |
 | [Khan Academy](https://www.khanacademy.org/)                           | Video Tutorials (free?)                           |
-| [Javascript 30](https://javascript30.com/)                             | Wes Bos Javacscript 30 days challenge             |
-| [React 30](https://github.com/Asabeneh/30-Days-Of-React)               | React 30 days course                              |
-| [100 days of Code](https://github.com/nas5w/100-days-of-code-frontend) | 100 days of code challenge                        |
-| [Google PWA](https://developers.google.com/web/ilt/pwa)                | PWA Google course                                 |
+| [Javascript 30](https://javascript30.com/)                             | Wes Bos Javacscript 30 days challenge (free)      |
+| [React 30](https://github.com/Asabeneh/30-Days-Of-React)               | React 30 days course (free)                       |
+| [100 days of Code](https://github.com/nas5w/100-days-of-code-frontend) | 100 days of code challenge (free)                 |
+| [Google PWA](https://developers.google.com/web/ilt/pwa)                | PWA Google course (free)                          |
+| [Odin Project](https://theodinproject.com/)                            | Full stack course (free)                          |
+| [Full Stack Open](https://fullstackopen.com/en/)                       | Full stack course (free)                          |
+| [SQL Bolt](https://sqlbolt.com/)                                       | Interactive SQL course (free)                     |
 
 ## Youtube Channels
 
@@ -106,25 +111,31 @@
 | [2ality](https://2ality.com/)                                                                                            | Dr. Axel Rauschmayer webdev dedicated blog                                         |
 | [Can I use](https://caniuse.com/)                                                                                        | Support Tables for html, css                                                       |
 | [CSS tricks](https://css-tricks.com/poll-results-how-do-you-order-your-css-properties/)                                  | How to order CSS properties                                                        |
+| [Contrast checker](https://contrastchecker.com/)                                                                         | Contrast checker                                                                   |
+| [Webgems](https://webgems.io/)                                                                                           | List of useful resources                                                           |
 
 ## Others
 
-| Link                                                                                                              | Description                                                         |
-| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [MagPi](https://magpi.raspberrypi.org/)                                                                           | Rasberry Pi Magazine                                                |
-| [Design Daily](https://www.uidesigndaily.com/)                                                                    | Daily free design                                                   |
-| [Awesome Portfolios](https://github.com/amnashanwar/awesome-portfolios)                                           | List of awesome portfolio examples                                  |
-| [Supla](https://www.supla.org/pl/)                                                                                | IOT dedicated website                                               |
-| [Bash Bushido](https://alexbaranowski.github.io/bash-bushido-book/)                                               | Linux Command Line Tricks and Tips                                  |
-| [Mlody Technik](https://mlodytechnik.pl/eksperymenty-i-zadania-szkolne/kursy/28558-praktyczny-kurs-raspberry-pi)  | Rasberry Pi Practical course                                        |
-| [Software Architecture](https://github.com/ryanmcdermott/3rs-of-software-architecture)                            | 3rs of software Architecture                                        |
-| [Malinowe Pi](https://malinowepi.pl/)                                                                             | Rasberry Pi portal PL                                               |
-| [Inżynier Domu](http://www.inzynierdomu.pl/)                                                                      | IOT dedicated website                                               |
-| [Secure Firefox](https://github.com/qarmin/Instrukcje-i-Tutoriale/blob/master/FirefoxBezpieczenstwo.md#readme)    | Instructions that helps secure Firefox browser                      |
-| [Hackaday](https://hackaday.io/discover)                                                                          | DIY projects                                                        |
-| [Phoronix](https://www.phoronix.com/scan.php?page=home)                                                           | Linux dedicated blod                                                |
-| [fmin](https://github.com/benfred/fmin)                                                                           | github with library that solve unconstrained function in javascript |
-| [Nunerical Optimization](http://www.benfrederickson.com/numerical-optimization/)                                  | An Interactive Tutorial on Numerical Optimization                   |
-| [Medium Elon Musk](https://medium.com/swlh/top-10-elon-musk-productivity-secrets-for-insane-success-dae584c88e03) | Medium Elon Musk productivity article                               |
-| [Fantazmaty](https://fantazmaty.pl/czytaj/antologie/)                                                             | Free science-fiction stories                                        |
-| [Codepen](https://codepen.io/Cleyson/pen/oGnsb)                                                                   | Pure CSS Superman                                                   |
+| Link                                                                                                                       | Description                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| [MagPi](https://magpi.raspberrypi.org/)                                                                                    | Rasberry Pi Magazine                                                                              |
+| [Design Daily](https://www.uidesigndaily.com/)                                                                             | Daily free design                                                                                 |
+| [Awesome Portfolios](https://github.com/amnashanwar/awesome-portfolios)                                                    | List of awesome portfolio examples                                                                |
+| [Supla](https://www.supla.org/pl/)                                                                                         | IOT dedicated website                                                                             |
+| [Bash Bushido](https://alexbaranowski.github.io/bash-bushido-book/)                                                        | Linux Command Line Tricks and Tips                                                                |
+| [Mlody Technik](https://mlodytechnik.pl/eksperymenty-i-zadania-szkolne/kursy/28558-praktyczny-kurs-raspberry-pi)           | Rasberry Pi Practical course                                                                      |
+| [Software Architecture](https://github.com/ryanmcdermott/3rs-of-software-architecture)                                     | 3rs of software Architecture                                                                      |
+| [Malinowe Pi](https://malinowepi.pl/)                                                                                      | Rasberry Pi portal PL                                                                             |
+| [Inżynier Domu](http://www.inzynierdomu.pl/)                                                                               | IOT dedicated website                                                                             |
+| [Secure Firefox](https://github.com/qarmin/Instrukcje-i-Tutoriale/blob/master/FirefoxBezpieczenstwo.md#readme)             | Instructions that helps secure Firefox browser                                                    |
+| [Hackaday](https://hackaday.io/discover)                                                                                   | DIY projects                                                                                      |
+| [Phoronix](https://www.phoronix.com/scan.php?page=home)                                                                    | Linux dedicated blod                                                                              |
+| [fmin](https://github.com/benfred/fmin)                                                                                    | github with library that solve unconstrained function in javascript                               |
+| [Nunerical Optimization](http://www.benfrederickson.com/numerical-optimization/)                                           | An Interactive Tutorial on Numerical Optimization                                                 |
+| [Medium Elon Musk](https://medium.com/swlh/top-10-elon-musk-productivity-secrets-for-insane-success-dae584c88e03)          | Medium Elon Musk productivity article                                                             |
+| [Fantazmaty](https://fantazmaty.pl/czytaj/antologie/)                                                                      | Free science-fiction stories                                                                      |
+| [Codepen](https://codepen.io/Cleyson/pen/oGnsb)                                                                            | Pure CSS Superman                                                                                 |
+| [Ultimate Python](https://github.com/huangsam/ultimate-python)                                                             | Ultimate Python guide                                                                             |
+| [Epaper.js](https://github.com/samsonmking/epaper.js)                                                                      | Node.js library for easily creating an ePaper display on a Raspberry Pi using HTML and Javascript |
+| [Devoter Learner](https://devotedlearner.com/how-to-become-a-machine-learning-engineer/#Introduction)                      | How to become a machine learning engineer                                                         |
+| [Python curated](https://github.com/learnbyexample/scripting_course/blob/master/Python_curated_resources.md#code-practice) | List of python resources                                                                          |
