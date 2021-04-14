@@ -31,6 +31,7 @@
 | [Cyber dojo](https://www.cyber-dojo.org/creator/home)   | Interactive Javascript course with challenges (free)                          |
 | [Code Wars](https://www.codewars.com)                   | Free coding challenges                                                        |
 | [Over the wire](https://overthewire.org/wargames/)      | OverTheWire wargames helps learn and practice security concepts               |
+| [Oh my Git](https://ohmygit.org/)                       | Learn Git by playing game                                                     |
 
 ## Courses
 
@@ -68,51 +69,60 @@
 | [Poth on Programming](https://www.youtube.com/channel/UCdS3ojA8RL8t1r18Gj1cl6w) | Javascript Canvas tutorials          |
 | [Web dev simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)  | Web Dev Tutorials                    |
 | [Wes Bos](https://www.youtube.com/user/wesbos)                                  | Wes Bos Youtube Channel              |
+| [Google Sheets with Node.js](https://www.youtube.com/watch?v=PFJNJQCU_lo)       | Control Google Sheets with Node.js   |
 
 # Useful links
 
-| Link                                                                                                                     | Description                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
-| [Increment](https://increment.com/issues/)                                                                               | IT Magazine                                                                        |
-| [BoardGame](https://boardgame.io/)                                                                                       | Open Source Game Engine for Turn-Based Games                                       |
-| [Icons8](https://icons8.com/illustrations)                                                                               | Free Vector Illustrations                                                          |
-| [unDraw](https://undraw.co/)                                                                                             | Open-source Illustrations                                                          |
-| [PatternPad](https://patternpad.com/)                                                                                    | Design geometrical patterns                                                        |
-| [FontJoy](https://fontjoy.com/)                                                                                          | Select best similar fonts for your project                                         |
-| [Colorhunt](https://colorhunt.co/)                                                                                       | Examples color palletes                                                            |
-| [ColorSpins](https://colorsinspo.com/)                                                                                   | Examples color palletes                                                            |
-| [SAGIpl blog](https://blog.sagipl.com/mobile-app-ideas/)                                                                 | 112 Mobile App ideas for 2021                                                      |
-| [CSS Triggers](https://csstriggers.com/)                                                                                 | Which page element(Layout, Paint, Composite) is updated during CSS changes on page |
-| [React + D3](https://wattenberger.com/blog/react-and-d3)                                                                 | Using React with D3 introduction                                                   |
-| [Jason Watmore's Blog](https://jasonwatmore.com/)                                                                        | Lots of valuable React/Angular articles                                            |
-| [Tablec Icons](https://tablericons.com/)                                                                                 | Free customizable SVG icons                                                        |
-| [Robin Wieruch Blog](https://www.robinwieruch.de/)                                                                       | React, node, graphql dedicated blog                                                |
-| [Javascript algorithms](https://github.com/trekhleb/javascript-algorithms)                                               | Javascript Algorithms and Data Structures                                          |
-| [Lapa Ninja](https://www.lapa.ninja/)                                                                                    | Landing Page Design Inspiration                                                    |
-| [JS Tips](https://github.com/nas5w/javascript-tips-and-tidbits)                                                          | Javascript Tips & Tidbits                                                          |
-| [Atomic design](https://bradfrost.com/blog/post/atomic-web-design/)                                                      | Atomic web design article                                                          |
-| [Codrops](https://tympanus.net/codrops/)                                                                                 | web design and development news, articles                                          |
-| [HTML DOM](https://htmldom.dev/)                                                                                         | how to manage HTML DOM with vanilla JavaScript only                                |
-| [Figmacrush](https://www.figmacrush.com/)                                                                                | Free designs                                                                       |
-| [FreeCodeCamp](https://www.freecodecamp.org/news/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d/)       | FreeCodeCamp projects examples                                                     |
-| [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)                                                                | WCAG Overview                                                                      |
-| [CSS Specificity](https://cssspecificity.com/)                                                                           | The origin and sorting order of CSS                                                |
-| [Jake Archibald](https://jakearchibald.com/)                                                                             | Jake Archibald blog                                                                |
-| [VS Code Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)                              | VS Code Keyboard Shortcuts for Windows                                             |
-| [Mozilla Developer](https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection)                    | 2d Collision Detection                                                             |
-| [Roadmap](https://roadmap.sh/frontend)                                                                                   | Front-end roadmap                                                                  |
-| [LostDecade Games](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/)                               | Simple html5 canvas game                                                           |
-| [Ben justanton](https://www.benjystanton.co.uk/blog/accessibility-checklist/)                                            | Accessibility checklist                                                            |
-| [Webmaster Helion](http://webmaster.helion.pl/index.php/kursjs-wspolpraca-z-przegladarka-model-dom/kursjs-obiekt-window) | Window Object description                                                          |
-| [Solution chaser](https://solutionchaser.com/)                                                                           | Fullstack blog PL                                                                  |
-| [David Walsh](https://davidwalsh.name/)                                                                                  | Front-end dedicated blog                                                           |
-| [DevTalk](https://devtalk.pl/)                                                                                           | DevTalk Podcast Page                                                               |
-| [TypeOfWeb](https://typeofweb.com/24-blogi-ktore-musi-sledzic-javascript-developer/)                                     | 24 worth attention web dev blog                                                    |
-| [2ality](https://2ality.com/)                                                                                            | Dr. Axel Rauschmayer webdev dedicated blog                                         |
-| [Can I use](https://caniuse.com/)                                                                                        | Support Tables for html, css                                                       |
-| [CSS tricks](https://css-tricks.com/poll-results-how-do-you-order-your-css-properties/)                                  | How to order CSS properties                                                        |
-| [Contrast checker](https://contrastchecker.com/)                                                                         | Contrast checker                                                                   |
-| [Webgems](https://webgems.io/)                                                                                           | List of useful resources                                                           |
+| Link                                                                                                                             | Description                                                                        |
+| -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| [Increment](https://increment.com/issues/)                                                                                       | IT Magazine                                                                        |
+| [BoardGame](https://boardgame.io/)                                                                                               | Open Source Game Engine for Turn-Based Games                                       |
+| [Icons8](https://icons8.com/illustrations)                                                                                       | Free Vector Illustrations                                                          |
+| [unDraw](https://undraw.co/)                                                                                                     | Open-source Illustrations                                                          |
+| [PatternPad](https://patternpad.com/)                                                                                            | Design geometrical patterns                                                        |
+| [FontJoy](https://fontjoy.com/)                                                                                                  | Select best similar fonts for your project                                         |
+| [Colorhunt](https://colorhunt.co/)                                                                                               | Examples color palletes                                                            |
+| [ColorSpins](https://colorsinspo.com/)                                                                                           | Examples color palletes                                                            |
+| [SAGIpl blog](https://blog.sagipl.com/mobile-app-ideas/)                                                                         | 112 Mobile App ideas for 2021                                                      |
+| [CSS Triggers](https://csstriggers.com/)                                                                                         | Which page element(Layout, Paint, Composite) is updated during CSS changes on page |
+| [React + D3](https://wattenberger.com/blog/react-and-d3)                                                                         | Using React with D3 introduction                                                   |
+| [Jason Watmore's Blog](https://jasonwatmore.com/)                                                                                | Lots of valuable React/Angular articles                                            |
+| [Tablec Icons](https://tablericons.com/)                                                                                         | Free customizable SVG icons                                                        |
+| [Robin Wieruch Blog](https://www.robinwieruch.de/)                                                                               | React, node, graphql dedicated blog                                                |
+| [Javascript algorithms](https://github.com/trekhleb/javascript-algorithms)                                                       | Javascript Algorithms and Data Structures                                          |
+| [Lapa Ninja](https://www.lapa.ninja/)                                                                                            | Landing Page Design Inspiration                                                    |
+| [JS Tips](https://github.com/nas5w/javascript-tips-and-tidbits)                                                                  | Javascript Tips & Tidbits                                                          |
+| [Atomic design](https://bradfrost.com/blog/post/atomic-web-design/)                                                              | Atomic web design article                                                          |
+| [Codrops](https://tympanus.net/codrops/)                                                                                         | web design and development news, articles                                          |
+| [HTML DOM](https://htmldom.dev/)                                                                                                 | how to manage HTML DOM with vanilla JavaScript only                                |
+| [Figmacrush](https://www.figmacrush.com/)                                                                                        | Free designs                                                                       |
+| [FreeCodeCamp](https://www.freecodecamp.org/news/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d/)               | FreeCodeCamp projects examples                                                     |
+| [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)                                                                        | WCAG Overview                                                                      |
+| [CSS Specificity](https://cssspecificity.com/)                                                                                   | The origin and sorting order of CSS                                                |
+| [Jake Archibald](https://jakearchibald.com/)                                                                                     | Jake Archibald blog                                                                |
+| [VS Code Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)                                      | VS Code Keyboard Shortcuts for Windows                                             |
+| [Mozilla Developer](https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection)                            | 2d Collision Detection                                                             |
+| [Roadmap](https://roadmap.sh/frontend)                                                                                           | Front-end roadmap                                                                  |
+| [LostDecade Games](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/)                                       | Simple html5 canvas game                                                           |
+| [Ben justanton](https://www.benjystanton.co.uk/blog/accessibility-checklist/)                                                    | Accessibility checklist                                                            |
+| [Webmaster Helion](http://webmaster.helion.pl/index.php/kursjs-wspolpraca-z-przegladarka-model-dom/kursjs-obiekt-window)         | Window Object description                                                          |
+| [Solution chaser](https://solutionchaser.com/)                                                                                   | Fullstack blog PL                                                                  |
+| [David Walsh](https://davidwalsh.name/)                                                                                          | Front-end dedicated blog                                                           |
+| [DevTalk](https://devtalk.pl/)                                                                                                   | DevTalk Podcast Page                                                               |
+| [TypeOfWeb](https://typeofweb.com/24-blogi-ktore-musi-sledzic-javascript-developer/)                                             | 24 worth attention web dev blog                                                    |
+| [2ality](https://2ality.com/)                                                                                                    | Dr. Axel Rauschmayer webdev dedicated blog                                         |
+| [Can I use](https://caniuse.com/)                                                                                                | Support Tables for html, css                                                       |
+| [CSS tricks](https://css-tricks.com/poll-results-how-do-you-order-your-css-properties/)                                          | How to order CSS properties                                                        |
+| [Contrast checker](https://contrastchecker.com/)                                                                                 | Contrast checker                                                                   |
+| [Webgems](https://webgems.io/)                                                                                                   | List of useful resources                                                           |
+| [Design resources](https://github.com/MohamedYoussouf/Design-Resources)                                                          | Free design sources repository                                                     |
+| [Node js Best Practises](https://github.com/goldbergyoni/nodebestpractices)                                                      | Node.js Best Practises                                                             |
+| [Clone Wars](https://github.com/gorvgoyl/clone-wars)                                                                             | Github repository with links to pages/apps clones                                  |
+| [NASA openMCT](https://github.com/nasa/openmct)                                                                                  | Nasa opensource Mission Control Panel Github                                       |
+| [Javascript DOM cheatsheet](https://github.com/anish000kumar/Javascript-DOM-API-cheatsheet/blob/master/readme.md)                | Javascript DOM API Cheatsheet Github repository                                    |
+| [25 Javascript tricks](https://beforesemicolon.medium.com/25-more-javascript-code-solutions-you-need-to-know-about-6ee344c2da58) | 25 Javascript Tricks You need to know about                                        |
+| [Metatags HTML](https://gist.github.com/lancejpollard/1978404)                                                                   | Complete List of HTML Meta tags                                                    |
+| [Git cheatsheet](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/git-cheat-sheet/amp)              | Git cheatsheet                                                                     |
 
 ## Others
 
@@ -139,3 +149,4 @@
 | [Epaper.js](https://github.com/samsonmking/epaper.js)                                                                      | Node.js library for easily creating an ePaper display on a Raspberry Pi using HTML and Javascript |
 | [Devoter Learner](https://devotedlearner.com/how-to-become-a-machine-learning-engineer/#Introduction)                      | How to become a machine learning engineer                                                         |
 | [Python curated](https://github.com/learnbyexample/scripting_course/blob/master/Python_curated_resources.md#code-practice) | List of python resources                                                                          |
+| [Linux From Scratch](https://linuxiarze.pl/download_lfs/)                                                                  | Linux from scratch                                                                                |
