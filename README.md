@@ -71,6 +71,17 @@
 | [Wes Bos](https://www.youtube.com/user/wesbos)                                  | Wes Bos Youtube Channel              |
 | [Google Sheets with Node.js](https://www.youtube.com/watch?v=PFJNJQCU_lo)       | Control Google Sheets with Node.js   |
 
+## Design links
+
+| Link                                                                    | Description                     |
+| ----------------------------------------------------------------------- | ------------------------------- |
+| [PatternPad](https://patternpad.com/)                                   | Design geometrical patterns     |
+| [Lapa Ninja](https://www.lapa.ninja/)                                   | Landing Page Design Inspiration |
+| [Atomic design](https://bradfrost.com/blog/post/atomic-web-design/)     | Atomic web design article       |
+| [Design resources](https://github.com/MohamedYoussouf/Design-Resources) | Free design sources repository  |
+| [Design Daily](https://www.uidesigndaily.com/)                          | Daily free design               |
+| [Figmacrush](https://www.figmacrush.com/)                               | Free designs                    |
+
 # Useful links
 
 | Link                                                                                                                             | Description                                                                        |
@@ -79,7 +90,6 @@
 | [BoardGame](https://boardgame.io/)                                                                                               | Open Source Game Engine for Turn-Based Games                                       |
 | [Icons8](https://icons8.com/illustrations)                                                                                       | Free Vector Illustrations                                                          |
 | [unDraw](https://undraw.co/)                                                                                                     | Open-source Illustrations                                                          |
-| [PatternPad](https://patternpad.com/)                                                                                            | Design geometrical patterns                                                        |
 | [FontJoy](https://fontjoy.com/)                                                                                                  | Select best similar fonts for your project                                         |
 | [Colorhunt](https://colorhunt.co/)                                                                                               | Examples color palletes                                                            |
 | [ColorSpins](https://colorsinspo.com/)                                                                                           | Examples color palletes                                                            |
@@ -90,12 +100,9 @@
 | [Tablec Icons](https://tablericons.com/)                                                                                         | Free customizable SVG icons                                                        |
 | [Robin Wieruch Blog](https://www.robinwieruch.de/)                                                                               | React, node, graphql dedicated blog                                                |
 | [Javascript algorithms](https://github.com/trekhleb/javascript-algorithms)                                                       | Javascript Algorithms and Data Structures                                          |
-| [Lapa Ninja](https://www.lapa.ninja/)                                                                                            | Landing Page Design Inspiration                                                    |
 | [JS Tips](https://github.com/nas5w/javascript-tips-and-tidbits)                                                                  | Javascript Tips & Tidbits                                                          |
-| [Atomic design](https://bradfrost.com/blog/post/atomic-web-design/)                                                              | Atomic web design article                                                          |
 | [Codrops](https://tympanus.net/codrops/)                                                                                         | web design and development news, articles                                          |
 | [HTML DOM](https://htmldom.dev/)                                                                                                 | how to manage HTML DOM with vanilla JavaScript only                                |
-| [Figmacrush](https://www.figmacrush.com/)                                                                                        | Free designs                                                                       |
 | [FreeCodeCamp](https://www.freecodecamp.org/news/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d/)               | FreeCodeCamp projects examples                                                     |
 | [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)                                                                        | WCAG Overview                                                                      |
 | [CSS Specificity](https://cssspecificity.com/)                                                                                   | The origin and sorting order of CSS                                                |
@@ -115,21 +122,25 @@
 | [CSS tricks](https://css-tricks.com/poll-results-how-do-you-order-your-css-properties/)                                          | How to order CSS properties                                                        |
 | [Contrast checker](https://contrastchecker.com/)                                                                                 | Contrast checker                                                                   |
 | [Webgems](https://webgems.io/)                                                                                                   | List of useful resources                                                           |
-| [Design resources](https://github.com/MohamedYoussouf/Design-Resources)                                                          | Free design sources repository                                                     |
-| [Node js Best Practises](https://github.com/goldbergyoni/nodebestpractices)                                                      | Node.js Best Practises                                                             |
+| [Node js Best Practices](https://github.com/goldbergyoni/nodebestpractices)                                                      | Node.js Best Practices                                                             |
 | [Clone Wars](https://github.com/gorvgoyl/clone-wars)                                                                             | Github repository with links to pages/apps clones                                  |
 | [NASA openMCT](https://github.com/nasa/openmct)                                                                                  | Nasa opensource Mission Control Panel Github                                       |
 | [Javascript DOM cheatsheet](https://github.com/anish000kumar/Javascript-DOM-API-cheatsheet/blob/master/readme.md)                | Javascript DOM API Cheatsheet Github repository                                    |
 | [25 Javascript tricks](https://beforesemicolon.medium.com/25-more-javascript-code-solutions-you-need-to-know-about-6ee344c2da58) | 25 Javascript Tricks You need to know about                                        |
 | [Metatags HTML](https://gist.github.com/lancejpollard/1978404)                                                                   | Complete List of HTML Meta tags                                                    |
 | [Git cheatsheet](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/git-cheat-sheet/amp)              | Git cheatsheet                                                                     |
+| [React database](https://github.com/enaqx/awesome-react)                                                                         | Huge Github React repository                                                       |
+| [30 seconds of code](https://www.30secondsofcode.org/)                                                                           | Javascript Related code snippets                                                   |
+| [Swistak Codes](https://swistak.codes/)                                                                                          | Javascript related blog PL                                                         |
+| [WTF JS](https://github.com/denysdovhan/wtfjs/blob/master/README-pl-pl.md)                                                       | Wtf JS - JS design Patterns                                                        |
+| [Clean Code JS](https://github.com/ryanmcdermott/clean-code-javascript)                                                          | Clean Code JS - Good Practices                                                     |
+| [JS Testing Practices](https://github.com/goldbergyoni/javascript-testing-best-practices)                                        | Javascript testing best practices                                                  |
 
 ## Others
 
 | Link                                                                                                                       | Description                                                                                       |
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | [MagPi](https://magpi.raspberrypi.org/)                                                                                    | Rasberry Pi Magazine                                                                              |
-| [Design Daily](https://www.uidesigndaily.com/)                                                                             | Daily free design                                                                                 |
 | [Awesome Portfolios](https://github.com/amnashanwar/awesome-portfolios)                                                    | List of awesome portfolio examples                                                                |
 | [Supla](https://www.supla.org/pl/)                                                                                         | IOT dedicated website                                                                             |
 | [Bash Bushido](https://alexbaranowski.github.io/bash-bushido-book/)                                                        | Linux Command Line Tricks and Tips                                                                |
@@ -150,3 +161,4 @@
 | [Devoter Learner](https://devotedlearner.com/how-to-become-a-machine-learning-engineer/#Introduction)                      | How to become a machine learning engineer                                                         |
 | [Python curated](https://github.com/learnbyexample/scripting_course/blob/master/Python_curated_resources.md#code-practice) | List of python resources                                                                          |
 | [Linux From Scratch](https://linuxiarze.pl/download_lfs/)                                                                  | Linux from scratch                                                                                |
+| [Ben Eater Blog](https://eater.net/)                                                                                       | Ben Eater Blog                                                                                    |
