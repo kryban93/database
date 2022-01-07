@@ -49,6 +49,7 @@
 | [Odin Project](https://theodinproject.com/)                            | Full stack course (free)                          |
 | [Full Stack Open](https://fullstackopen.com/en/)                       | Full stack course (free)                          |
 | [SQL Bolt](https://sqlbolt.com/)                                       | Interactive SQL course (free)                     |
+|[ThreeJS docu](https://threejs.org/)| Three JS Documentation|
 
 ## Youtube Channels
 
