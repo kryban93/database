@@ -82,6 +82,7 @@
 | [Design resources](https://github.com/MohamedYoussouf/Design-Resources) | Free design sources repository  |
 | [Design Daily](https://www.uidesigndaily.com/)                          | Daily free design               |
 | [Figmacrush](https://www.figmacrush.com/)                               | Free designs                    |
+|[Polly pizza](https://poly.pizza/)|Free 3d models|
 
 # Useful links
 
