@@ -82,7 +82,7 @@
 | [Design resources](https://github.com/MohamedYoussouf/Design-Resources) | Free design sources repository  |
 | [Design Daily](https://www.uidesigndaily.com/)                          | Daily free design               |
 | [Figmacrush](https://www.figmacrush.com/)                               | Free designs                    |
-|[Polly pizza](https://poly.pizza/)|Free 3d models|
+| [Polly pizza](https://poly.pizza/)|Free 3d models|
 
 # Useful links
 
@@ -164,3 +164,4 @@
 | [Python curated](https://github.com/learnbyexample/scripting_course/blob/master/Python_curated_resources.md#code-practice) | List of python resources                                                                          |
 | [Linux From Scratch](https://linuxiarze.pl/download_lfs/)                                                                  | Linux from scratch                                                                                |
 | [Ben Eater Blog](https://eater.net/)                                                                                       | Ben Eater Blog                                                                                    |
+|[ElectroNoobs](http://electronoobs.com/index.php)| Electronics tutorials|
