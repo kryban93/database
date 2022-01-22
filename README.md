@@ -139,7 +139,7 @@
 | [JS Testing Practices](https://github.com/goldbergyoni/javascript-testing-best-practices)                                        | Javascript testing best practices                                                  |
 |[Layout creator](https://layout.bradwoods.io/)|Nice Layout Creator|
 |[Destructuring](https://www.freecodecamp.org/news/destructuring-patterns-javascript-arrays-and-objects/)|Destructuring of arrays and objects|
-
+|[Animate SVG](https://tympanus.net/codrops/2022/01/19/animate-anything-along-an-svg-path/)|Animate anything along an svg path|
 
 ## Others
 
