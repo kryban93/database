@@ -140,6 +140,8 @@
 |[Layout creator](https://layout.bradwoods.io/)|Nice Layout Creator|
 |[Destructuring](https://www.freecodecamp.org/news/destructuring-patterns-javascript-arrays-and-objects/)|Destructuring of arrays and objects|
 |[Animate SVG](https://tympanus.net/codrops/2022/01/19/animate-anything-along-an-svg-path/)|Animate anything along an svg path|
+|[How not to learn Typescript](https://fettblog.eu/how-not-to-learn-typescript/)|A great article by Stefan Baumgartner on how not to approach TypeScript learning.|
+
 
 ## Others
 
